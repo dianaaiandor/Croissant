@@ -26,5 +26,6 @@ a:active {
 @media (max-width: 576px) {
   p {
     padding: 0 10px;
+    text-align: justify;
   }
 }
