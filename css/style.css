@@ -22,3 +22,9 @@ body {
 a:active {
   color: rgb(184, 105, 16);
 }
+
+@media (max-width: 576px) {
+  p {
+    padding: 0 10px;
+  }
+}
