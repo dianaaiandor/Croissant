@@ -19,9 +19,6 @@ body {
 .contact {
   margin-top: 20px;
 }
-a:active {
-  color: rgb(184, 105, 16);
-}
 
 @media (max-width: 576px) {
   p {
